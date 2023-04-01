@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @DanLzr
-- 👀 I’m interested in Python, SQL and Cyber Security
-- 🌱 I’m currently learning IoT Security
+- Hi, I’m @DanLzr
+- This is a small pool of projects done throughout my university time at Edinburgh Napier - The projects here include my honours project, a Web Browser Digital Forensics scraper and reporting tool developed in Python.
 
 <!---
 DanLzr/DanLzr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
